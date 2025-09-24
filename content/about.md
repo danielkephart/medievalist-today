@@ -4,18 +4,27 @@ layout: layouts/base.njk
 <div class="about-section">
   <h1>About Me</h1>
   <img src="biophoto.jpg" alt="photo description of me" style="width:300px">
-  <p>Some text about who I am and what I do.</p>
-  <p>Resize the browser window to see that this page is responsive by the way.</p>
-</div>
+  <p>I am a Ph.D. candidate in English at the University of Rochester</p>
+ </div>
 
 <h1 style="text-align:center">Research Interests</h1>
 <div class="row">
   <div class="column">
     <div class="card">
       <div class="container">
-        <h2>Book History</h2>
+        <h2>Medieval Studies</h2>
         <p class="title">subtext</p>
-        <p>Some text that describes my interests in this field.</p>
+        <p>I specialize in English literature during the Late Middle Ages, but I enjoy just about everything medieval.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="container">
+        <h2>Fashion Theory</h2>
+        <p class="title">subtext</p>
+        <p>My key influences here are Roland Barthes, E. Jane Burns, and Susan Crane.</p>
       </div>
     </div>
   </div>
@@ -25,17 +34,7 @@ layout: layouts/base.njk
       <div class="container">
         <h2>Digital Humanities</h2>
         <p class="title">subtext</p>
-        <p>Some text that describes my interest in this field.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <div class="container">
-        <h2>Visual Design</h2>
-        <p class="title">subtext</p>
-        <p>Some text that describes my interest in this field.</p>
+        <p>For the past several years I have been highly involved in the evolving work of the digital humanities.</p>
       </div>
     </div>
   </div>

@@ -1,33 +1,33 @@
 {
-	"name": "dream-lab-blog",
+	"name": "Medievalist-Today",
 	"version": "1.0.0",
-	"description": "A demo template using the Eleventy site generator.",
+	"description": "A home website for Daniel Kephart",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/dream-lab-blog/",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/medievalist-today/",
 		"start": "npx @11ty/eleventy --serve --quiet",
-		"start-ghpages": "npx @11ty/eleventy --pathprefix=/dream-lab-blog/ --serve --quiet",
+		"start-ghpages": "npx @11ty/eleventy --pathprefix=/medievalist-today/ --serve --quiet",
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Makeademic/dream-lab-blog.git"
+		"url": "git://github.com/danielkephart/medievalist-today.git"
 	},
 	"author": {
-		"name": "Emily Brooks",
-		"email": "email@email.com",
-		"url": "https://github.com/makeademic"
+		"name": "Daniel Kephart",
+		"email": "dkephart@ur.rochester.edu",
+		"url": "https://github.com/danielkephart"
 	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=18"
 	},
 	
-	"homepage": "https://github.com/makeademic/dream-lab-blog#readme",
+	"homepage": "https://github.com/danielkephart/medievalist-today#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.0",
 		"@11ty/eleventy-img": "^6.0.4",

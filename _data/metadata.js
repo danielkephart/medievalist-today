@@ -1,11 +1,11 @@
 export default {
-	title: "Dream Lab Blog",
-	url: "https://makeademic.github.io/dream-lab-blog/",
+	title: "Medievalist Today",
+	url: "https://danielkephart.github.io/medievalist-today/",
 	language: "en",
-	description: "I am writing about my experiences at Dream Lab 2025",
+	description: "I am creating an academic website.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
+		name: "Daniel Kephart",
+		email: "dkephart@ur.rochester.edu",
 		url: "https://example.com/about-me/"
 	}
 }

@@ -1,16 +1,14 @@
 ---
-title: Dream Lab Day 1
-description: This is a post on My Blog about agile frameworks.
-date: 2025-05-20
-tags: another tag
+title: 24 September 2025
+description: This is a blog where I introduce the website..
+date: 2025-09-24
+tags: website
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hello! I've launched this site to provide a public touchpoint for some of my work. Please reach out to me at danielkephart77@gmail.com if you would have any questions.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## How to use the site
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+The site isn't especially difficult to navigate, I hope. You can see my current <i>vitae</i> as well as a blog.
 
 ```diff-js
  // this is a command
